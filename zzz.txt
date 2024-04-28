@@ -169,18 +169,14 @@ IPTV5,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000000000004
 黑龙江文化,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 
 港澳台,#genre#
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
-澳门澳视",https://iptv.hiper25.com/TDM/video.m3u8
+澳门澳视,http://61.244.22.5/ch1/ch1.live/index.m3u8
 中天新闻",http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 华视",http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
 中视",http://66.165.240.154:8080/live/ztylt06/hls.m3u8
@@ -500,10 +496,10 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 中山综合,http://119.23.60.89:8460/udp/239.253.43.59:5146
 徐闻综合,http://119.23.60.89:8460/udp/239.253.43.112:5146
 揭西台,http://113.64.145.228:8081/hls/19/index.m3u8
-揭阳综合,http://119.23.60.89:8460/udp/239.77.0.157:5146
+揭阳综合,http://172.16.8.212:7766/udp/239.21.0.91:3704
 揭阳公共,http://119.23.60.89:8460/udp/239.77.0.158:5146
-汕头综合,http://119.23.60.89:8460/udp/239.253.43.30:5146
+汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
 汕头生活,http://119.23.60.89:8460/udp/239.253.43.43:5146
-汕头文化,http://119.23.60.89:8460/udp/239.253.43.44:5146
+汕头文化,http://211.97.63.3:801/hls/82/index.m3u8
 韶关综合,http://119.23.60.89:8460/udp/239.77.0.116:5146
 韶关公共,http://119.23.60.89:8460/udp/239.77.0.118:5146
